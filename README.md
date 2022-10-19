@@ -1,1 +1,1 @@
-# EmployeeWage
+Employee Wage Computation Program
